@@ -1,2 +1,2 @@
 # EDITED_task
-Scrape a product page from shop.mango.com using Scrapy
+Scrape a product page from shop.mango.com using Python Scrapy framework
